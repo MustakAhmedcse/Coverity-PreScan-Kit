@@ -1,0 +1,437 @@
+Phase,Scan,Project,Stack,CID,Severity,CWE,Issue Type,File,Line
+Phase 1,Fifth,Web,Next.js (TS/TSX),11592,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,295
+Phase 1,Fifth,Web,Next.js (TS/TSX),11591,Very high,CWE-476,"Property access or function call before check for null or undefined",/lib/utils.ts,371
+Phase 1,Fifth,Web,Next.js (TS/TSX),11526,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1370
+Phase 1,Fifth,Web,Next.js (TS/TSX),11516,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,302
+Phase 1,Fifth,Web,Next.js (TS/TSX),11493,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,300
+Phase 1,First,Web,Next.js (TS/TSX),11568,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-kpi-approval/EsiKpiApproveRejectDelete.tsx,163
+Phase 1,First,Web,Next.js (TS/TSX),11561,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventType/EventTypeAdd.tsx,61
+Phase 1,First,Web,Next.js (TS/TSX),11560,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level-user/ApprovalLevelUserDeleteDailog.tsx,49
+Phase 1,First,Web,Next.js (TS/TSX),11558,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,756
+Phase 1,First,Web,Next.js (TS/TSX),11556,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingEditForm.tsx,98
+Phase 1,First,Web,Next.js (TS/TSX),11555,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/regular-adhoc-report-approval/AdhocReportApprovalAdd.tsx,89
+Phase 1,First,Web,Next.js (TS/TSX),11553,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/event/EventList.tsx,210
+Phase 1,First,Web,Next.js (TS/TSX),11547,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/AddNewCondition.tsx,130
+Phase 1,First,Web,Next.js (TS/TSX),11545,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esiManualData/AddKPIHeader.tsx,79
+Phase 1,First,Web,Next.js (TS/TSX),11542,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupEditForm.tsx,193
+Phase 1,First,Web,Next.js (TS/TSX),11540,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,731
+Phase 1,First,Web,Next.js (TS/TSX),11538,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level/ApprovalLevelAdd.tsx,96
+Phase 1,First,Web,Next.js (TS/TSX),11537,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingAdd.tsx,80
+Phase 1,First,Web,Next.js (TS/TSX),11533,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/ui/chart.tsx,201
+Phase 1,First,Web,Next.js (TS/TSX),11532,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-report-segments/CommissionReportSegmentsEditForm.tsx,240
+Phase 1,First,Web,Next.js (TS/TSX),11531,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-target-replicate/EsiKpiTargetReplicate.tsx,261
+Phase 1,First,Web,Next.js (TS/TSX),11526,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1362
+Phase 1,First,Web,Next.js (TS/TSX),11525,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,587
+Phase 1,First,Web,Next.js (TS/TSX),11523,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/event/EventAdd.tsx,167
+Phase 1,First,Web,Next.js (TS/TSX),11516,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,382
+Phase 1,First,Web,Next.js (TS/TSX),11514,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segment/SegmentEditForm.tsx,99
+Phase 1,First,Web,Next.js (TS/TSX),11508,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalAdd.tsx,93
+Phase 1,First,Web,Next.js (TS/TSX),11504,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-target-approval/EsiTargetApproveReject.tsx,108
+Phase 1,First,Web,Next.js (TS/TSX),11503,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,597
+Phase 1,First,Web,Next.js (TS/TSX),11496,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventrule/EventRuleEditForm.tsx,267
+Phase 1,First,Web,Next.js (TS/TSX),11493,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,322
+Phase 1,First,Web,Next.js (TS/TSX),11491,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level-user/ApprovalLevelUserEditForm.tsx,137
+Phase 1,First,Web,Next.js (TS/TSX),11490,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-kpi-approval/EsiKpiConfigureEditForm.tsx,85
+Phase 1,First,Web,Next.js (TS/TSX),11489,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segmentType/SegmentTypeAdd.tsx,119
+Phase 1,First,Web,Next.js (TS/TSX),11488,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esiChannelMapping/ManualChannelUpload.tsx,239
+Phase 1,First,Web,Next.js (TS/TSX),11486,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureEdit.tsx,44
+Phase 1,First,Web,Next.js (TS/TSX),11479,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/regular-adhoc-report-approval/AdhocReportApprovalAdd.tsx,177
+Phase 1,First,Web,Next.js (TS/TSX),11474,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-initiation/DisburseInitiate.tsx,189
+Phase 1,First,Web,Next.js (TS/TSX),11473,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventrule/EventRuleAdd.tsx,237
+Phase 1,First,Web,Next.js (TS/TSX),11472,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-target-upload/EsiTargetUpload.tsx,251
+Phase 1,First,Web,Next.js (TS/TSX),11471,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esiManualData/ManualDataUpload.tsx,155
+Phase 1,First,Web,Next.js (TS/TSX),11470,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityEdit.tsx,60
+Phase 1,First,Web,Next.js (TS/TSX),11466,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/SrUploadAdd.tsx,221
+Phase 1,First,Web,Next.js (TS/TSX),11464,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEdit.tsx,66
+Phase 1,First,Web,Next.js (TS/TSX),11463,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityList.tsx,132
+Phase 1,First,Web,Next.js (TS/TSX),11462,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureEditForm.tsx,116
+Phase 1,First,Web,Next.js (TS/TSX),11461,Very high,CWE-476,"Property access or function call before check for null or undefined",/app/login/page.tsx,55
+Phase 1,First,Web,Next.js (TS/TSX),11460,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveCampaignStop.tsx,47
+Phase 1,First,Web,Next.js (TS/TSX),11457,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/esi-target-upload/EsiTargetUpload.tsx,314
+Phase 1,First,Web,Next.js (TS/TSX),11453,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,713
+Phase 1,First,Web,Next.js (TS/TSX),11451,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneAdd.tsx,98
+Phase 1,First,Web,Next.js (TS/TSX),11450,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/re-disburse-initiation/ReDisburseInitiate.tsx,186
+Phase 1,First,Web,Next.js (TS/TSX),11449,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportEditForm.tsx,208
+Phase 1,First,Web,Next.js (TS/TSX),11447,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventrule/EventRuleList.tsx,179
+Phase 1,First,Web,Next.js (TS/TSX),11444,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingEdit.tsx,92
+Phase 1,First,Web,Next.js (TS/TSX),11442,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,707
+Phase 1,First,Web,Next.js (TS/TSX),11440,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignSetupList.tsx,211
+Phase 1,First,Web,Next.js (TS/TSX),11438,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignTargetUpload.tsx,176
+Phase 1,First,Web,Next.js (TS/TSX),11435,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-target-approval/EsiTargetApprovalList.tsx,213
+Phase 1,First,Web,Next.js (TS/TSX),11434,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/sim-validation-rule/SimValidationRuleAdd.tsx,91
+Phase 1,First,Web,Next.js (TS/TSX),11433,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/EventListForEditRegulerAdHocSetupList.tsx,131
+Phase 1,First,Web,Next.js (TS/TSX),11430,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-target-approval/ViewMonthDetails.tsx,184
+Phase 1,First,Web,Next.js (TS/TSX),11429,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityEditForm.tsx,121
+Phase 1,First,Web,Next.js (TS/TSX),11423,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/deno-approval/DenoApprovalAdd.tsx,83
+Phase 1,First,Web,Next.js (TS/TSX),11422,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-approval-process/ClaimApprovalProcessList.tsx,158
+Phase 1,First,Web,Next.js (TS/TSX),11421,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segmentType/SegmentTypeEditForm.tsx,115
+Phase 1,First,Web,Next.js (TS/TSX),11419,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,1146
+Phase 1,First,Web,Next.js (TS/TSX),11416,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-approval-process/DisburseApprovalOrDelete.tsx,100
+Phase 1,First,Web,Next.js (TS/TSX),11413,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalList.tsx,185
+Phase 1,First,Web,Next.js (TS/TSX),11411,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1495
+Phase 1,First,Web,Next.js (TS/TSX),11409,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-report-segments/commissionReportSegmentsAdd.tsx,178
+Phase 1,First,Web,Next.js (TS/TSX),11408,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-initiation/ClaimInitiate.tsx,202
+Phase 1,First,Web,Next.js (TS/TSX),11406,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-configuration/ReportConfig.tsx,335
+Phase 1,First,Web,Next.js (TS/TSX),11401,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-flow/ApprovalFlowAdd.tsx,88
+Phase 1,First,Web,Next.js (TS/TSX),11400,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-configuration/ReportConfig.tsx,708
+Phase 1,First,Web,Next.js (TS/TSX),11398,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level-user/ApprovalLevelUserAdd.tsx,152
+Phase 1,First,Web,Next.js (TS/TSX),11395,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupEditForm.tsx,279
+Phase 1,First,Web,Next.js (TS/TSX),11391,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,583
+Phase 1,First,Web,Next.js (TS/TSX),11390,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalHistory.tsx,83
+Phase 1,First,Web,Next.js (TS/TSX),11386,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveTargetUpload.tsx,217
+Phase 1,First,Web,Next.js (TS/TSX),11385,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/EsiKpiConfigure.tsx,116
+Phase 1,First,Web,Next.js (TS/TSX),11383,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-approval-process/ClaimApprovalOrDelete.tsx,110
+Phase 1,First,Web,Next.js (TS/TSX),11382,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/re-disburse-initiation/ReDisburseInitiate.tsx,281
+Phase 1,First,Web,Next.js (TS/TSX),11379,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignSetupList.tsx,52
+Phase 1,First,Web,Next.js (TS/TSX),11378,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-initiation/DisburseInitiate.tsx,279
+Phase 1,First,Web,Next.js (TS/TSX),11374,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-report-segments/commissionReportSegmentsList.tsx,210
+Phase 1,First,Web,Next.js (TS/TSX),11373,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityAdd.tsx,126
+Phase 1,First,Web,Next.js (TS/TSX),11372,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/event/EventEditForm.tsx,169
+Phase 1,First,Web,Next.js (TS/TSX),11371,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalAdd.tsx,100
+Phase 1,First,Web,Next.js (TS/TSX),11370,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalList.tsx,158
+Phase 1,First,Web,Next.js (TS/TSX),11367,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureAdd.tsx,139
+Phase 1,First,Web,Next.js (TS/TSX),11362,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/sim-validation-rule/SimValidationRuleEditForm.tsx,128
+Phase 1,First,Web,Next.js (TS/TSX),11361,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/detail-setup/DetailSetupEditForm.tsx,163
+Phase 1,First,Web,Next.js (TS/TSX),11357,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/SrUploadAdd.tsx,164
+Phase 1,First,Web,Next.js (TS/TSX),11356,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segment/segmentList.tsx,87
+Phase 1,First,Web,Next.js (TS/TSX),11355,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportList.tsx,170
+Phase 1,First,Web,Next.js (TS/TSX),11352,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/AddNewKpi.tsx,91
+Phase 1,First,Web,Next.js (TS/TSX),11350,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,195
+Phase 1,First,Web,Next.js (TS/TSX),11349,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/channelType/ChannelTypeAdd.tsx,63
+Phase 1,First,Web,Next.js (TS/TSX),11347,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalDetails.tsx,163
+Phase 1,First,Web,Next.js (TS/TSX),11343,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/sim-validation-rule/SimValidationRuleList.tsx,170
+Phase 1,First,Web,Next.js (TS/TSX),11342,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/AddNewSubKpi.tsx,108
+Phase 1,First,Web,Next.js (TS/TSX),11341,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/SrUploadEditForm.tsx,254
+Phase 1,First,Web,Next.js (TS/TSX),11340,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalAdd.tsx,197
+Phase 1,First,Web,Next.js (TS/TSX),11338,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-report-approval/EsiApproval.tsx,63
+Phase 1,First,Web,Next.js (TS/TSX),11333,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level/ApprovalLevelList.tsx,136
+Phase 1,First,Web,Next.js (TS/TSX),11331,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneReplicateForm.tsx,142
+Phase 1,First,Web,Next.js (TS/TSX),11330,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureList.tsx,153
+Phase 1,First,Web,Next.js (TS/TSX),11329,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-flow/ApprovalFlowList.tsx,85
+Phase 1,First,Web,Next.js (TS/TSX),11327,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-report-approval/HaltForArrear.tsx,174
+Phase 1,First,Web,Next.js (TS/TSX),11325,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-target/CommissionTargetImport.tsx,219
+Phase 1,First,Web,Next.js (TS/TSX),11320,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-initiation/ClaimInitiationList.tsx,148
+Phase 1,First,Web,Next.js (TS/TSX),11319,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportAdd.tsx,225
+Phase 1,First,Web,Next.js (TS/TSX),11318,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventType/EventTypeList.tsx,57
+Phase 1,First,Web,Next.js (TS/TSX),11313,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignStop.tsx,45
+Phase 1,First,Web,Next.js (TS/TSX),11311,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esiManualData/DisableKPIHeader.tsx,163
+Phase 1,First,Web,Next.js (TS/TSX),11310,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportEditForm.tsx,254
+Phase 1,First,Web,Next.js (TS/TSX),11308,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneList.tsx,195
+Phase 1,First,Web,Next.js (TS/TSX),11304,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/channelType/ChannelTypeList.tsx,75
+Phase 1,First,Web,Next.js (TS/TSX),11300,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupList.tsx,199
+Phase 1,First,Web,Next.js (TS/TSX),11299,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventType/EventTypeEditForm.tsx,84
+Phase 1,First,Web,Next.js (TS/TSX),11298,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupAdd.tsx,275
+Phase 1,First,Web,Next.js (TS/TSX),11297,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-flow/ApprovalFlowEditForm.tsx,99
+Phase 1,First,Web,Next.js (TS/TSX),11295,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-kpi-approval/ApprovalLevelUserAdd.tsx,144
+Phase 1,First,Web,Next.js (TS/TSX),11294,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveTargetUpload.tsx,170
+Phase 1,First,Web,Next.js (TS/TSX),11288,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveList.tsx,202
+Phase 1,First,Web,Next.js (TS/TSX),11287,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segment/segmentAdd.tsx,93
+Phase 1,First,Web,Next.js (TS/TSX),11284,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignAdd.tsx,80
+Phase 1,First,Web,Next.js (TS/TSX),11282,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-report-approval/EsiApprovalAdd.tsx,81
+Phase 1,First,Web,Next.js (TS/TSX),11281,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/deno-approval/DenoApprovalDetail.tsx,211
+Phase 1,First,Web,Next.js (TS/TSX),11276,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalDetails.tsx,140
+Phase 1,First,Web,Next.js (TS/TSX),11270,Very high,CWE-476,"Property access or function call before check for null or undefined",/lib/utils.ts,362
+Phase 1,First,Web,Next.js (TS/TSX),11269,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-initiation/ClaimInitiate.tsx,292
+Phase 1,First,Web,Next.js (TS/TSX),11268,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/re-disburse-approval-process/ReDisburseApprovalProcessList.tsx,137
+Phase 1,First,Web,Next.js (TS/TSX),11265,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level/ApprovalLevelEditForm.tsx,117
+Phase 1,First,Web,Next.js (TS/TSX),11264,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/detail-setup/DetailSetupAdd.tsx,156
+Phase 1,First,Web,Next.js (TS/TSX),11251,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/regular-adhoc-report-approval/AdhocReportApprovalList.tsx,166
+Phase 1,First,Web,Next.js (TS/TSX),11249,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportAdd.tsx,283
+Phase 1,First,Web,Next.js (TS/TSX),11248,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-approval-process/DisburseApprovalProcessList.tsx,155
+Phase 1,First,Web,Next.js (TS/TSX),11246,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupAdd.tsx,333
+Phase 1,First,Web,Next.js (TS/TSX),11245,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segmentType/SegmentTypeList.tsx,86
+Phase 1,First,Web,Next.js (TS/TSX),11244,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/DisableConfig.tsx,92
+Phase 1,First,Web,Next.js (TS/TSX),11243,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,621
+Phase 1,First,Web,Next.js (TS/TSX),11238,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneEditForm.tsx,110
+Phase 1,First,Web,Next.js (TS/TSX),11234,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-replicate/EsiKpiReplicate.tsx,183
+Phase 1,First,Web,Next.js (TS/TSX),11233,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/channelType/ChannelTypeEditForm.tsx,66
+Phase 1,First,Web,Next.js (TS/TSX),11232,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,1387
+Phase 1,First,Web,Next.js (TS/TSX),11230,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingList.tsx,120
+Phase 1,First,Web,Next.js (TS/TSX),11229,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/retailer-termination/RetailerTerminationAdd.tsx,90
+Phase 1,First,Web,Next.js (TS/TSX),11227,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveEditWrapper.tsx,35
+Phase 1,First,Web,Next.js (TS/TSX),11397,Very high,CWE-79,"Unsafe output of data into innerHtml",/components/ui/chart.tsx,82
+Phase 1,First,Web,Next.js (TS/TSX),11266,Very high,CWE-798,"Hard-coded secret",/lib/localstorage.ts,3
+Phase 1,First,Web,Next.js (TS/TSX),11428,High,CWE-561,"Logically dead code",/components/feature/report/regular-ad-hoc-report/RegularAdhocReportSearch.tsx,137
+Phase 1,First,Web,Next.js (TS/TSX),11307,High,CWE-561,"Logically dead code",/components/feature/setup/campaign-deno-drive-setup/DenoDriveTargetUpload.tsx,250
+Phase 1,First,Web,Next.js (TS/TSX),11306,High,CWE-688,"Typo in identifier",/components/feature/setup/esi-kpi-configure/EsiKpiConfigure.tsx,274
+Phase 1,First,API,.NET (C#),11218,Very high,CWE-476,"Dereference after null check",/SalesCom.Application/Services/Application/Common/Implement/DownloadFilesfromByteArrayBLL.cs,70
+Phase 1,First,API,.NET (C#),11223,High,CWE-563,"Unused value",/Infrastructure/ESI.DAL/ESI_KPIConfigurationDAL2.cs,249
+Phase 1,First,API,.NET (C#),11214,High,CWE-563,"Unused value",/Infrastructure/ESI.DAL/ESI_KPIConfigurationDAL2.cs,354
+Phase 1,First,API,.NET (C#),11187,High,CWE-563,"Unused value",/SalesCom.Application/Services/Application/SetUp/Implement/ESI_KPIConfigurationBLL.cs,109
+Phase 1,First,API,.NET (C#),11221,Medium,CWE-404,"Resource leak",/Infrastructure/ESI.DAL/ESI_dllOracle.cs,32
+Phase 1,First,API,.NET (C#),11220,Medium,CWE-404,"Resource leak",/Infrastructure/ESI.DAL/ESI_KPIConfigurationDAL.cs,204
+Phase 1,First,API,.NET (C#),11219,Medium,CWE-404,"Resource leak",/Infrastructure/POS.DAL/ImportFromExcel.cs,32
+Phase 1,First,API,.NET (C#),11216,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/ReportWiseRedisburseInitiationDAL.cs,104
+Phase 1,First,API,.NET (C#),11213,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/InitiateClaimDAL.cs,128
+Phase 1,First,API,.NET (C#),11208,Medium,CWE-404,"Resource leak",/Infrastructure/ESI.DAL/ESI_ReportApprovalDAL.cs,63
+Phase 1,First,API,.NET (C#),11206,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/ImportExcelToDataBaseDAL.cs,592
+Phase 1,First,API,.NET (C#),11204,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/dllOracle.cs,27
+Phase 1,First,API,.NET (C#),11203,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/ImportExcelToDataBaseDAL.cs,540
+Phase 1,First,API,.NET (C#),11201,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/DenoDriveTargetUploadDAL.cs,71
+Phase 1,First,API,.NET (C#),11199,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/ImportExcelToDataBaseDAL.cs,625
+Phase 1,First,API,.NET (C#),11198,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/DailyDenoDriveTargetUploadDAL.cs,96
+Phase 1,First,API,.NET (C#),11197,Medium,CWE-404,"Resource leak",/Infrastructure/POS.DAL/dllOracle.cs,27
+Phase 1,First,API,.NET (C#),11195,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/DenoDriveTargetUploadDAL.cs,98
+Phase 1,First,API,.NET (C#),11194,Medium,CWE-404,"Resource leak",/Infrastructure/ESI.DAL/ESI_ReportApprovalDAL.cs,121
+Phase 1,First,API,.NET (C#),11193,Medium,CWE-404,"Resource leak",/Infrastructure/ESI.DAL/ESI_KPIConfigurationDAL2.cs,72
+Phase 1,First,API,.NET (C#),11192,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/InitiateDisburseDAL.cs,124
+Phase 1,First,API,.NET (C#),11191,Medium,CWE-404,"Resource leak",/Infrastructure/ESI.DAL/ESI_KPIConfigurationDAL2.cs,490
+Phase 1,First,API,.NET (C#),11189,Medium,CWE-404,"Resource leak on an exceptional path",/Infrastructure/SalesCom.DAL/ImportExcelToDataBaseDAL.cs,344
+Phase 1,First,API,.NET (C#),11188,Medium,CWE-404,"Resource leak",/Infrastructure/ESI.DAL/ESI_KPIConfigurationDAL.cs,928
+Phase 1,First,API,.NET (C#),11186,Medium,CWE-404,"Resource leak",/Infrastructure/SalesCom.DAL/DailyDenoDriveTargetUploadDAL.cs,70
+Phase 1,Fourth,Web,Next.js (TS/TSX),11590,Very high,CWE-476,"Bad use of null-like value",/components/feature/approval-process/esi-target-approval/ViewOrApproveRejectSubmit.tsx,63
+Phase 1,Fourth,Web,Next.js (TS/TSX),11526,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1370
+Phase 1,Fourth,Web,Next.js (TS/TSX),11516,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,365
+Phase 1,Fourth,Web,Next.js (TS/TSX),11493,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,336
+Phase 1,Fourth,Web,Next.js (TS/TSX),11419,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,1118
+Phase 1,Fourth,Web,Next.js (TS/TSX),11340,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalAdd.tsx,202
+Phase 1,Fourth,Web,Next.js (TS/TSX),11338,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-report-approval/EsiApproval.tsx,63
+Phase 1,Fourth,Web,Next.js (TS/TSX),11308,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneList.tsx,180
+Phase 1,Fourth,Web,Next.js (TS/TSX),11270,Very high,CWE-476,"Property access or function call before check for null or undefined",/lib/utils.ts,366
+Phase 1,Fourth,Web,Next.js (TS/TSX),11246,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupAdd.tsx,346
+Phase 1,Second,API,.NET (C#),11587,Very high,CWE-476,"Null value leads to thrown exception",/SalesCom.WebAPI/ServiceRegister/ServiceRegister.cs,93
+Phase 1,Second,API,.NET (C#),11585,Very high,CWE-476,"Dereference after null check",/SalesCom.Application/Services/Application/SetUp/Implement/CampaignDenoDriveBLL.cs,93
+Phase 1,Second,API,.NET (C#),11583,Very high,CWE-476,"Dereference before null check",/SalesCom.Application/Services/Application/SetUp/Implement/DigitalDistributionCommission.cs,51
+Phase 1,Second,API,.NET (C#),11581,High,CWE-561,"Logically dead code",/SalesCom.Application/Services/Application/ClaimAndDisburse/Implement/ClaimInitiationBLL.cs,59
+Phase 1,Second,API,.NET (C#),11580,High,CWE-561,"Logically dead code",/SalesCom.Application/Services/Application/ClaimAndDisburse/Implement/ReDisburseInitiationBLL.cs,60
+Phase 1,Second,API,.NET (C#),11579,High,CWE-561,"Logically dead code",/SalesCom.Application/Services/Application/SetUp/Implement/CampaignDenoDriveBLL.cs,97
+Phase 1,Second,API,.NET (C#),11577,High,CWE-561,"Logically dead code",/Infrastructure/ESI.DAL/ESI_ReportApprovalDAL.cs,28
+Phase 1,Second,API,.NET (C#),11576,High,CWE-561,"Logically dead code",/SalesCom.Application/Services/Application/ClaimAndDisburse/Implement/DisburseInitiationBLL.cs,49
+Phase 1,Second,API,.NET (C#),11584,Medium,CWE-404,"Resource leak",/SalesCom.Application/Services/Application/Account/Implement/Authentication.cs,141
+Phase 1,Second,API,.NET (C#),11582,Medium,CWE-404,"Resource leak on an exceptional path",/Infrastructure/SalesCom.DAL/ImportExcelToDataBaseDAL.cs,346
+Phase 1,Second,API,.NET (C#),11578,Medium,CWE-404,"Resource leak on an exceptional path",/Infrastructure/SalesCom.DAL/ImportExcelToDataBaseDAL.cs,447
+Phase 1,Second,API,.NET (C#),11194,Medium,CWE-404,"Resource leak",/Infrastructure/ESI.DAL/ESI_ReportApprovalDAL.cs,120
+Phase 1,Second,Web,Next.js (TS/TSX),11568,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-kpi-approval/EsiKpiApproveRejectDelete.tsx,123
+Phase 1,Second,Web,Next.js (TS/TSX),11561,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventType/EventTypeAdd.tsx,60
+Phase 1,Second,Web,Next.js (TS/TSX),11560,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level-user/ApprovalLevelUserDeleteDailog.tsx,49
+Phase 1,Second,Web,Next.js (TS/TSX),11556,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingEditForm.tsx,98
+Phase 1,Second,Web,Next.js (TS/TSX),11555,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/regular-adhoc-report-approval/AdhocReportApprovalAdd.tsx,89
+Phase 1,Second,Web,Next.js (TS/TSX),11553,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/event/EventList.tsx,210
+Phase 1,Second,Web,Next.js (TS/TSX),11547,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/AddNewCondition.tsx,130
+Phase 1,Second,Web,Next.js (TS/TSX),11545,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esiManualData/AddKPIHeader.tsx,79
+Phase 1,Second,Web,Next.js (TS/TSX),11542,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupEditForm.tsx,193
+Phase 1,Second,Web,Next.js (TS/TSX),11540,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,731
+Phase 1,Second,Web,Next.js (TS/TSX),11538,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level/ApprovalLevelAdd.tsx,96
+Phase 1,Second,Web,Next.js (TS/TSX),11537,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingAdd.tsx,80
+Phase 1,Second,Web,Next.js (TS/TSX),11533,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/ui/chart.tsx,242
+Phase 1,Second,Web,Next.js (TS/TSX),11532,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-report-segments/CommissionReportSegmentsEditForm.tsx,240
+Phase 1,Second,Web,Next.js (TS/TSX),11531,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-target-replicate/EsiKpiTargetReplicate.tsx,261
+Phase 1,Second,Web,Next.js (TS/TSX),11526,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1208
+Phase 1,Second,Web,Next.js (TS/TSX),11525,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,587
+Phase 1,Second,Web,Next.js (TS/TSX),11523,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/event/EventAdd.tsx,167
+Phase 1,Second,Web,Next.js (TS/TSX),11516,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,382
+Phase 1,Second,Web,Next.js (TS/TSX),11514,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segment/SegmentEditForm.tsx,99
+Phase 1,Second,Web,Next.js (TS/TSX),11508,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalAdd.tsx,93
+Phase 1,Second,Web,Next.js (TS/TSX),11504,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-target-approval/EsiTargetApproveReject.tsx,149
+Phase 1,Second,Web,Next.js (TS/TSX),11503,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,597
+Phase 1,Second,Web,Next.js (TS/TSX),11496,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventrule/EventRuleEditForm.tsx,267
+Phase 1,Second,Web,Next.js (TS/TSX),11493,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,323
+Phase 1,Second,Web,Next.js (TS/TSX),11491,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level-user/ApprovalLevelUserEditForm.tsx,137
+Phase 1,Second,Web,Next.js (TS/TSX),11490,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-kpi-approval/EsiKpiConfigureEditForm.tsx,85
+Phase 1,Second,Web,Next.js (TS/TSX),11489,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segmentType/SegmentTypeAdd.tsx,119
+Phase 1,Second,Web,Next.js (TS/TSX),11488,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esiChannelMapping/ManualChannelUpload.tsx,239
+Phase 1,Second,Web,Next.js (TS/TSX),11486,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureEdit.tsx,44
+Phase 1,Second,Web,Next.js (TS/TSX),11479,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/regular-adhoc-report-approval/AdhocReportApprovalAdd.tsx,179
+Phase 1,Second,Web,Next.js (TS/TSX),11474,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-initiation/DisburseInitiate.tsx,191
+Phase 1,Second,Web,Next.js (TS/TSX),11473,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventrule/EventRuleAdd.tsx,237
+Phase 1,Second,Web,Next.js (TS/TSX),11472,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-target-upload/EsiTargetUpload.tsx,251
+Phase 1,Second,Web,Next.js (TS/TSX),11471,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esiManualData/ManualDataUpload.tsx,155
+Phase 1,Second,Web,Next.js (TS/TSX),11470,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityEdit.tsx,60
+Phase 1,Second,Web,Next.js (TS/TSX),11466,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/SrUploadAdd.tsx,223
+Phase 1,Second,Web,Next.js (TS/TSX),11464,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEdit.tsx,42
+Phase 1,Second,Web,Next.js (TS/TSX),11463,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityList.tsx,132
+Phase 1,Second,Web,Next.js (TS/TSX),11462,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureEditForm.tsx,116
+Phase 1,Second,Web,Next.js (TS/TSX),11461,Very high,CWE-476,"Property access or function call before check for null or undefined",/app/login/page.tsx,55
+Phase 1,Second,Web,Next.js (TS/TSX),11460,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveCampaignStop.tsx,47
+Phase 1,Second,Web,Next.js (TS/TSX),11453,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,713
+Phase 1,Second,Web,Next.js (TS/TSX),11451,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneAdd.tsx,98
+Phase 1,Second,Web,Next.js (TS/TSX),11450,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/re-disburse-initiation/ReDisburseInitiate.tsx,186
+Phase 1,Second,Web,Next.js (TS/TSX),11449,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportEditForm.tsx,208
+Phase 1,Second,Web,Next.js (TS/TSX),11447,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventrule/EventRuleList.tsx,179
+Phase 1,Second,Web,Next.js (TS/TSX),11444,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingEdit.tsx,90
+Phase 1,Second,Web,Next.js (TS/TSX),11440,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignSetupList.tsx,213
+Phase 1,Second,Web,Next.js (TS/TSX),11438,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignTargetUpload.tsx,176
+Phase 1,Second,Web,Next.js (TS/TSX),11435,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-target-approval/EsiTargetApprovalList.tsx,213
+Phase 1,Second,Web,Next.js (TS/TSX),11434,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/sim-validation-rule/SimValidationRuleAdd.tsx,91
+Phase 1,Second,Web,Next.js (TS/TSX),11433,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/EventListForEditRegulerAdHocSetupList.tsx,131
+Phase 1,Second,Web,Next.js (TS/TSX),11430,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-target-approval/ViewMonthDetails.tsx,184
+Phase 1,Second,Web,Next.js (TS/TSX),11429,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityEditForm.tsx,121
+Phase 1,Second,Web,Next.js (TS/TSX),11423,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/deno-approval/DenoApprovalAdd.tsx,83
+Phase 1,Second,Web,Next.js (TS/TSX),11422,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-approval-process/ClaimApprovalProcessList.tsx,158
+Phase 1,Second,Web,Next.js (TS/TSX),11421,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segmentType/SegmentTypeEditForm.tsx,115
+Phase 1,Second,Web,Next.js (TS/TSX),11419,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,1253
+Phase 1,Second,Web,Next.js (TS/TSX),11416,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-approval-process/DisburseApprovalOrDelete.tsx,100
+Phase 1,Second,Web,Next.js (TS/TSX),11413,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalList.tsx,185
+Phase 1,Second,Web,Next.js (TS/TSX),11411,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1462
+Phase 1,Second,Web,Next.js (TS/TSX),11409,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-report-segments/commissionReportSegmentsAdd.tsx,178
+Phase 1,Second,Web,Next.js (TS/TSX),11408,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-initiation/ClaimInitiate.tsx,159
+Phase 1,Second,Web,Next.js (TS/TSX),11406,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-configuration/ReportConfig.tsx,336
+Phase 1,Second,Web,Next.js (TS/TSX),11401,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-flow/ApprovalFlowAdd.tsx,88
+Phase 1,Second,Web,Next.js (TS/TSX),11398,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level-user/ApprovalLevelUserAdd.tsx,152
+Phase 1,Second,Web,Next.js (TS/TSX),11395,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupEditForm.tsx,279
+Phase 1,Second,Web,Next.js (TS/TSX),11391,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,583
+Phase 1,Second,Web,Next.js (TS/TSX),11390,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalHistory.tsx,83
+Phase 1,Second,Web,Next.js (TS/TSX),11386,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveTargetUpload.tsx,217
+Phase 1,Second,Web,Next.js (TS/TSX),11385,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/EsiKpiConfigure.tsx,116
+Phase 1,Second,Web,Next.js (TS/TSX),11383,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-approval-process/ClaimApprovalOrDelete.tsx,110
+Phase 1,Second,Web,Next.js (TS/TSX),11382,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/re-disburse-initiation/ReDisburseInitiate.tsx,281
+Phase 1,Second,Web,Next.js (TS/TSX),11379,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignSetupList.tsx,52
+Phase 1,Second,Web,Next.js (TS/TSX),11378,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-initiation/DisburseInitiate.tsx,283
+Phase 1,Second,Web,Next.js (TS/TSX),11374,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-report-segments/commissionReportSegmentsList.tsx,210
+Phase 1,Second,Web,Next.js (TS/TSX),11373,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityAdd.tsx,126
+Phase 1,Second,Web,Next.js (TS/TSX),11372,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/event/EventEditForm.tsx,169
+Phase 1,Second,Web,Next.js (TS/TSX),11371,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalAdd.tsx,100
+Phase 1,Second,Web,Next.js (TS/TSX),11370,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalList.tsx,158
+Phase 1,Second,Web,Next.js (TS/TSX),11367,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureAdd.tsx,136
+Phase 1,Second,Web,Next.js (TS/TSX),11362,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/sim-validation-rule/SimValidationRuleEditForm.tsx,128
+Phase 1,Second,Web,Next.js (TS/TSX),11361,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/detail-setup/DetailSetupEditForm.tsx,163
+Phase 1,Second,Web,Next.js (TS/TSX),11357,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/SrUploadAdd.tsx,164
+Phase 1,Second,Web,Next.js (TS/TSX),11356,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segment/segmentList.tsx,87
+Phase 1,Second,Web,Next.js (TS/TSX),11355,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportList.tsx,170
+Phase 1,Second,Web,Next.js (TS/TSX),11352,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/AddNewKpi.tsx,91
+Phase 1,Second,Web,Next.js (TS/TSX),11350,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,219
+Phase 1,Second,Web,Next.js (TS/TSX),11349,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/channelType/ChannelTypeAdd.tsx,63
+Phase 1,Second,Web,Next.js (TS/TSX),11347,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalDetails.tsx,165
+Phase 1,Second,Web,Next.js (TS/TSX),11343,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/sim-validation-rule/SimValidationRuleList.tsx,170
+Phase 1,Second,Web,Next.js (TS/TSX),11342,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/AddNewSubKpi.tsx,108
+Phase 1,Second,Web,Next.js (TS/TSX),11341,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/SrUploadEditForm.tsx,254
+Phase 1,Second,Web,Next.js (TS/TSX),11340,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalAdd.tsx,199
+Phase 1,Second,Web,Next.js (TS/TSX),11338,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-report-approval/EsiApproval.tsx,63
+Phase 1,Second,Web,Next.js (TS/TSX),11333,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level/ApprovalLevelList.tsx,136
+Phase 1,Second,Web,Next.js (TS/TSX),11331,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneReplicateForm.tsx,142
+Phase 1,Second,Web,Next.js (TS/TSX),11330,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureList.tsx,153
+Phase 1,Second,Web,Next.js (TS/TSX),11329,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-flow/ApprovalFlowList.tsx,85
+Phase 1,Second,Web,Next.js (TS/TSX),11327,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-report-approval/HaltForArrear.tsx,174
+Phase 1,Second,Web,Next.js (TS/TSX),11325,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-target/CommissionTargetImport.tsx,219
+Phase 1,Second,Web,Next.js (TS/TSX),11320,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-initiation/ClaimInitiationList.tsx,148
+Phase 1,Second,Web,Next.js (TS/TSX),11319,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportAdd.tsx,225
+Phase 1,Second,Web,Next.js (TS/TSX),11318,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventType/EventTypeList.tsx,57
+Phase 1,Second,Web,Next.js (TS/TSX),11313,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignStop.tsx,45
+Phase 1,Second,Web,Next.js (TS/TSX),11311,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esiManualData/DisableKPIHeader.tsx,163
+Phase 1,Second,Web,Next.js (TS/TSX),11310,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportEditForm.tsx,256
+Phase 1,Second,Web,Next.js (TS/TSX),11308,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneList.tsx,195
+Phase 1,Second,Web,Next.js (TS/TSX),11304,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/channelType/ChannelTypeList.tsx,75
+Phase 1,Second,Web,Next.js (TS/TSX),11300,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupList.tsx,199
+Phase 1,Second,Web,Next.js (TS/TSX),11299,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventType/EventTypeEditForm.tsx,84
+Phase 1,Second,Web,Next.js (TS/TSX),11298,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupAdd.tsx,275
+Phase 1,Second,Web,Next.js (TS/TSX),11297,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-flow/ApprovalFlowEditForm.tsx,99
+Phase 1,Second,Web,Next.js (TS/TSX),11295,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-kpi-approval/ApprovalLevelUserAdd.tsx,144
+Phase 1,Second,Web,Next.js (TS/TSX),11294,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveTargetUpload.tsx,170
+Phase 1,Second,Web,Next.js (TS/TSX),11288,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveList.tsx,202
+Phase 1,Second,Web,Next.js (TS/TSX),11287,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segment/segmentAdd.tsx,93
+Phase 1,Second,Web,Next.js (TS/TSX),11284,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignAdd.tsx,82
+Phase 1,Second,Web,Next.js (TS/TSX),11282,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-report-approval/EsiApprovalAdd.tsx,81
+Phase 1,Second,Web,Next.js (TS/TSX),11281,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/deno-approval/DenoApprovalDetail.tsx,211
+Phase 1,Second,Web,Next.js (TS/TSX),11276,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalDetails.tsx,140
+Phase 1,Second,Web,Next.js (TS/TSX),11270,Very high,CWE-476,"Property access or function call before check for null or undefined",/lib/utils.ts,362
+Phase 1,Second,Web,Next.js (TS/TSX),11269,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-initiation/ClaimInitiate.tsx,296
+Phase 1,Second,Web,Next.js (TS/TSX),11268,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/re-disburse-approval-process/ReDisburseApprovalProcessList.tsx,137
+Phase 1,Second,Web,Next.js (TS/TSX),11265,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level/ApprovalLevelEditForm.tsx,117
+Phase 1,Second,Web,Next.js (TS/TSX),11264,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/detail-setup/DetailSetupAdd.tsx,156
+Phase 1,Second,Web,Next.js (TS/TSX),11251,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/regular-adhoc-report-approval/AdhocReportApprovalList.tsx,166
+Phase 1,Second,Web,Next.js (TS/TSX),11249,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportAdd.tsx,285
+Phase 1,Second,Web,Next.js (TS/TSX),11248,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-approval-process/DisburseApprovalProcessList.tsx,155
+Phase 1,Second,Web,Next.js (TS/TSX),11246,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupAdd.tsx,335
+Phase 1,Second,Web,Next.js (TS/TSX),11245,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segmentType/SegmentTypeList.tsx,86
+Phase 1,Second,Web,Next.js (TS/TSX),11244,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-configure/DisableConfig.tsx,92
+Phase 1,Second,Web,Next.js (TS/TSX),11243,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,623
+Phase 1,Second,Web,Next.js (TS/TSX),11238,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneEditForm.tsx,110
+Phase 1,Second,Web,Next.js (TS/TSX),11234,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/esi-kpi-replicate/EsiKpiReplicate.tsx,183
+Phase 1,Second,Web,Next.js (TS/TSX),11233,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/channelType/ChannelTypeEditForm.tsx,66
+Phase 1,Second,Web,Next.js (TS/TSX),11230,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingList.tsx,120
+Phase 1,Second,Web,Next.js (TS/TSX),11229,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/retailer-termination/RetailerTerminationAdd.tsx,90
+Phase 1,Second,Web,Next.js (TS/TSX),11227,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveEditWrapper.tsx,35
+Phase 1,Second,Web,Next.js (TS/TSX),11307,High,CWE-561,"Logically dead code",/components/feature/setup/campaign-deno-drive-setup/DenoDriveTargetUpload.tsx,252
+Phase 1,Second,Web,Next.js (TS/TSX),11306,High,CWE-688,"Typo in identifier",/components/feature/setup/esi-kpi-configure/EsiKpiConfigure.tsx,276
+Phase 1,Seventh,Web,Next.js (TS/TSX),11493,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,339
+Phase 1,Sixth,Web,Next.js (TS/TSX),11526,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1215
+Phase 1,Sixth,Web,Next.js (TS/TSX),11493,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,300
+Phase 1,Third,API,.NET (C#),11187,High,CWE-563,"Unused value",/SalesCom.Application/Services/Application/SetUp/Implement/ESI_KPIConfigurationBLL.cs,109
+Phase 1,Third,Web,Next.js (TS/TSX),11553,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/event/EventList.tsx,210
+Phase 1,Third,Web,Next.js (TS/TSX),11542,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupEditForm.tsx,193
+Phase 1,Third,Web,Next.js (TS/TSX),11533,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/ui/chart.tsx,242
+Phase 1,Third,Web,Next.js (TS/TSX),11526,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1214
+Phase 1,Third,Web,Next.js (TS/TSX),11525,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,587
+Phase 1,Third,Web,Next.js (TS/TSX),11516,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,382
+Phase 1,Third,Web,Next.js (TS/TSX),11503,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,597
+Phase 1,Third,Web,Next.js (TS/TSX),11493,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,295
+Phase 1,Third,Web,Next.js (TS/TSX),11479,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/regular-adhoc-report-approval/AdhocReportApprovalAdd.tsx,186
+Phase 1,Third,Web,Next.js (TS/TSX),11466,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/SrUploadAdd.tsx,229
+Phase 1,Third,Web,Next.js (TS/TSX),11463,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/activity/ActivityList.tsx,132
+Phase 1,Third,Web,Next.js (TS/TSX),11461,Very high,CWE-476,"Property access or function call before check for null or undefined",/app/login/page.tsx,55
+Phase 1,Third,Web,Next.js (TS/TSX),11453,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,713
+Phase 1,Third,Web,Next.js (TS/TSX),11450,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/re-disburse-initiation/ReDisburseInitiate.tsx,186
+Phase 1,Third,Web,Next.js (TS/TSX),11447,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventrule/EventRuleList.tsx,179
+Phase 1,Third,Web,Next.js (TS/TSX),11440,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-deno-campaign-setup/DailyDenoCampaignSetupList.tsx,213
+Phase 1,Third,Web,Next.js (TS/TSX),11435,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-target-approval/EsiTargetApprovalList.tsx,213
+Phase 1,Third,Web,Next.js (TS/TSX),11430,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-target-approval/ViewMonthDetails.tsx,184
+Phase 1,Third,Web,Next.js (TS/TSX),11422,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-approval-process/ClaimApprovalProcessList.tsx,158
+Phase 1,Third,Web,Next.js (TS/TSX),11419,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,1106
+Phase 1,Third,Web,Next.js (TS/TSX),11413,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalList.tsx,185
+Phase 1,Third,Web,Next.js (TS/TSX),11411,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveEditForm.tsx,1468
+Phase 1,Third,Web,Next.js (TS/TSX),11390,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalHistory.tsx,83
+Phase 1,Third,Web,Next.js (TS/TSX),11378,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-initiation/DisburseInitiate.tsx,288
+Phase 1,Third,Web,Next.js (TS/TSX),11374,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/commission-report-segments/commissionReportSegmentsList.tsx,210
+Phase 1,Third,Web,Next.js (TS/TSX),11370,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/daily-report-approval/DailyReportApprovalList.tsx,158
+Phase 1,Third,Web,Next.js (TS/TSX),11356,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segment/segmentList.tsx,87
+Phase 1,Third,Web,Next.js (TS/TSX),11355,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportList.tsx,170
+Phase 1,Third,Web,Next.js (TS/TSX),11350,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveDetails.tsx,195
+Phase 1,Third,Web,Next.js (TS/TSX),11343,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/sim-validation-rule/SimValidationRuleList.tsx,170
+Phase 1,Third,Web,Next.js (TS/TSX),11340,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/sr-approval/SrApprovalAdd.tsx,205
+Phase 1,Third,Web,Next.js (TS/TSX),11338,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-report-approval/EsiApproval.tsx,63
+Phase 1,Third,Web,Next.js (TS/TSX),11333,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-level/ApprovalLevelList.tsx,136
+Phase 1,Third,Web,Next.js (TS/TSX),11330,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventProcedure/EventProcedureList.tsx,153
+Phase 1,Third,Web,Next.js (TS/TSX),11329,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/approval-flow/ApprovalFlowList.tsx,85
+Phase 1,Third,Web,Next.js (TS/TSX),11320,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-initiation/ClaimInitiationList.tsx,148
+Phase 1,Third,Web,Next.js (TS/TSX),11318,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/eventType/EventTypeList.tsx,57
+Phase 1,Third,Web,Next.js (TS/TSX),11310,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportEditForm.tsx,249
+Phase 1,Third,Web,Next.js (TS/TSX),11308,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-clone/ReportCloneList.tsx,154
+Phase 1,Third,Web,Next.js (TS/TSX),11304,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/channelType/ChannelTypeList.tsx,75
+Phase 1,Third,Web,Next.js (TS/TSX),11300,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupList.tsx,199
+Phase 1,Third,Web,Next.js (TS/TSX),11294,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveTargetUpload.tsx,170
+Phase 1,Third,Web,Next.js (TS/TSX),11288,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveList.tsx,202
+Phase 1,Third,Web,Next.js (TS/TSX),11281,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/deno-approval/DenoApprovalDetail.tsx,187
+Phase 1,Third,Web,Next.js (TS/TSX),11270,Very high,CWE-476,"Property access or function call before check for null or undefined",/lib/utils.ts,362
+Phase 1,Third,Web,Next.js (TS/TSX),11269,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/claim-initiation/ClaimInitiate.tsx,306
+Phase 1,Third,Web,Next.js (TS/TSX),11268,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/re-disburse-approval-process/ReDisburseApprovalProcessList.tsx,137
+Phase 1,Third,Web,Next.js (TS/TSX),11251,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/regular-adhoc-report-approval/AdhocReportApprovalList.tsx,166
+Phase 1,Third,Web,Next.js (TS/TSX),11249,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/daily-report/DailyReportAdd.tsx,291
+Phase 1,Third,Web,Next.js (TS/TSX),11248,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/claim-disburse/disburse-approval-process/DisburseApprovalProcessList.tsx,155
+Phase 1,Third,Web,Next.js (TS/TSX),11246,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/regularAdHocReportSetup/RegularAdHocReportSetupAdd.tsx,342
+Phase 1,Third,Web,Next.js (TS/TSX),11245,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/segmentType/SegmentTypeList.tsx,86
+Phase 1,Third,Web,Next.js (TS/TSX),11243,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/CampaignDenoDriveAdd.tsx,629
+Phase 1,Third,Web,Next.js (TS/TSX),11230,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/report-cycle-mapping/ReportCycleMappingList.tsx,120
+Phase 1,Third,Web,Next.js (TS/TSX),11227,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-deno-drive-setup/DenoDriveEditWrapper.tsx,35
+Phase 2,First,API,Docker,12026,Very high,CWE-269,"Container running as root",/Dockerfile,1
+Phase 2,First,Web,Next.js (TS/TSX),11493,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/report-configuration/ReportConfig.tsx,334
+Phase 2,Fourth,Web,Next.js (TS/TSX),12047,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/supporting-approval/SupportingApprovalList.tsx,239
+Phase 2,Second,API,Docker,12026,Very high,CWE-269,"Container running as root",/Dockerfile,1
+Phase 2,Second,Web,Next.js (TS/TSX),12087,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-manualdata-approval/EsiManualDataApproveReject.tsx,129
+Phase 2,Second,Web,Next.js (TS/TSX),12083,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/supporting-upload/SupportingUploadEditForm.tsx,109
+Phase 2,Second,Web,Next.js (TS/TSX),12082,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/supporting-upload/SupportingDynamicFileUploadList.tsx,276
+Phase 2,Second,Web,Next.js (TS/TSX),12074,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-channel-mapping-approval/EsiChannelMappingApproveReject.tsx,138
+Phase 2,Second,Web,Next.js (TS/TSX),12071,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/supporting-upload/SupportingDynamicFileDeleteTable.tsx,45
+Phase 2,Second,Web,Next.js (TS/TSX),12068,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/supporting-upload/SupportingTargetSummaryList.tsx,345
+Phase 2,Second,Web,Next.js (TS/TSX),12067,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-manual-base-upload/ManualBaseUpload.tsx,99
+Phase 2,Second,Web,Next.js (TS/TSX),12066,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/digital-distribution-commission-approval/DigitalDistributionCommissionApprovalList.tsx,165
+Phase 2,Second,Web,Next.js (TS/TSX),12062,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/digital-distribution-commission-config/DigitalDistributionCommissionConfigTargetUpload.tsx,145
+Phase 2,Second,Web,Next.js (TS/TSX),12061,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-manualdata-approval/EsiManualDataApprovalList.tsx,185
+Phase 2,Second,Web,Next.js (TS/TSX),12060,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-channel-mapping-approval/EsiChannelMappingDataApprovalList.tsx,184
+Phase 2,Second,Web,Next.js (TS/TSX),12058,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/CreateKpi.tsx,98
+Phase 2,Second,Web,Next.js (TS/TSX),12055,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/digital-distribution-commission-config/DigitalDistributionCommissionConfigEdit.tsx,39
+Phase 2,Second,Web,Next.js (TS/TSX),12053,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/supporting-approval/SupportingApprovalAdd.tsx,73
+Phase 2,Second,Web,Next.js (TS/TSX),12051,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/campaign-manual-base-upload/ManualBaseUploadActiveInactive.tsx,44
+Phase 2,Second,Web,Next.js (TS/TSX),12047,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/supporting-approval/SupportingApprovalList.tsx,236
+Phase 2,Second,Web,Next.js (TS/TSX),12042,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/supporting-upload/SupportingTargetUpload.tsx,170
+Phase 2,Second,Web,Next.js (TS/TSX),12041,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/supporting-upload/SupportingManualAchievementUpload.tsx,170
+Phase 2,Second,Web,Next.js (TS/TSX),12037,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/srupload/CreateKpiCondition.tsx,143
+Phase 2,Second,Web,Next.js (TS/TSX),12035,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/supporting-upload/SupportingDynamicFileUploadList.tsx,206
+Phase 2,Second,Web,Next.js (TS/TSX),12034,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/supporting-upload/SupportingManualAchievementSummaryList.tsx,313
+Phase 2,Second,Web,Next.js (TS/TSX),12033,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/digital-distribution-commission-approval/DigitalDistributionCommissionApprovalProcess.tsx,73
+Phase 2,Third,Web,Next.js (TS/TSX),12082,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/supporting-upload/SupportingDynamicFileUploadList.tsx,275
+Phase 2,Third,Web,Next.js (TS/TSX),12066,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/digital-distribution-commission-approval/DigitalDistributionCommissionApprovalList.tsx,167
+Phase 2,Third,Web,Next.js (TS/TSX),12062,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/digital-distribution-commission-config/DigitalDistributionCommissionConfigTargetUpload.tsx,145
+Phase 2,Third,Web,Next.js (TS/TSX),12061,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/esi-manualdata-approval/EsiManualDataApprovalList.tsx,184
+Phase 2,Third,Web,Next.js (TS/TSX),12047,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/approval-process/supporting-approval/SupportingApprovalList.tsx,236
+Phase 2,Third,Web,Next.js (TS/TSX),12035,Very high,CWE-476,"Property access or function call before check for null or undefined",/components/feature/setup/supporting-upload/SupportingDynamicFileUploadList.tsx,204
+Phase 2,Third,Web,Next.js (TS/TSX),12034,Very high,CWE-476,"Bad use of null-like value",/components/feature/setup/supporting-upload/SupportingManualAchievementSummaryList.tsx,313

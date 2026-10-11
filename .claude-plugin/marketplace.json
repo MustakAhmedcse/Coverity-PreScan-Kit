@@ -1,0 +1,17 @@
+{
+  "name": "team-coverity",
+  "owner": {
+    "name": "SalesCom Team"
+  },
+  "metadata": {
+    "description": "Team Claude Code plugins for client Coverity security-scan readiness."
+  },
+  "plugins": [
+    {
+      "name": "coverity",
+      "source": "./plugins/coverity",
+      "description": "Coverity pre-scan skill: /coverity:prescan [api|web|python|docker|all] [scan|fix]",
+      "version": "1.0.0"
+    }
+  ]
+}

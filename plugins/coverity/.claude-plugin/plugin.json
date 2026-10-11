@@ -1,0 +1,7 @@
+{
+  "name": "coverity",
+  "version": "1.0.0",
+  "author": { "name": "SalesCom Team" },
+  "description": "Coverity pre-scan for .NET, Next.js, Python and Docker — find and fix client Coverity security-scan findings before handover. Built from real SalesCom Modernization and Biometric scan results.",
+  "keywords": ["coverity", "security", "sast", "dotnet", "nextjs", "python", "docker"]
+}
